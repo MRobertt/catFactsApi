@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(144, 184, 144);
+}
+
+.nextbtn {
+  margin-top: 50px;
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  color: rgb(10, 7, 1);
+  background-color: orchid;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nextbtn:hover {
+  background-color: orangered;
+  cursor: pointer;
+}
+
+.facts {
+  font-weight: bolder;
+  font-size: 24px;
+}
